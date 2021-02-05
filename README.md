@@ -8,7 +8,7 @@ I am cool minded analytical programmer who turns coffee into code to put an impa
 - 🌱 Currently on <strong> Blockchain and decentralisation </strong> module
 - 👯 I’m looking for a collaborator on my <strong> readers community project </strong>
 - 💬 My strength are <strong> MERN stack and DSA</strong>
-- 📫 How to reach m? <a href="https://www.linkedin.com/in/kartik-jaiswal-76623a16b/" target="_blank"> Kartik Jaiswal </a>
+- 📫 How to reach me? <a href="https://www.linkedin.com/in/kartik-jaiswal-76623a16b/" target="_blank"> Kartik Jaiswal </a>
 
   <a href=""><img src="https://github.com/Adrenalinerush07/Adrenalinerush07/blob/main/d8jjgkw-d4b8328a-47d7-4f81-a25f-6a42f2740ce0.jpg" height="200" width="200"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
