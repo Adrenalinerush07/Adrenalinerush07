@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adrenalinerush07&show_icons=true" alt="Kartik Jaiswal">
-  <img src="https://tenor.com/view/hate-naruto-sharingan-gif-6062752" alt="Kartik Jaiswal">
 </p>
 
 
