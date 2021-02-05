@@ -4,7 +4,8 @@
 
 I am cool minded analytical programmer who turns coffee into code to put an impact in world.
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" height="221" />  
+<div>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" height="221" />  
 
 - 🔭 I’m currently working on <a href="https://github.com/Adrenalinerush07/QNA" target="_blank">building readers community</a> 
 - 🌱 Currently working on <strong> Blockchain and decentralisation </strong> module
@@ -12,6 +13,7 @@ I am cool minded analytical programmer who turns coffee into code to put an impa
 - 💬 My strength are <strong> MERN stack and DSA</strong>
 - 📫 How to reach me? <a href="https://www.linkedin.com/in/kartik-jaiswal-76623a16b/" target="_blank"> Kartik Jaiswal </a>
 
+</div>
 
 
 
