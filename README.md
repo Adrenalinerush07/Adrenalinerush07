@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://adrenalinerush07.github.io/resume/" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrenalinerush07&show_icons=true" alt="Kartik Jaiswal">
 </p>
