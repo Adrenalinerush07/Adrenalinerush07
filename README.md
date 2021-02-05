@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="centre"> Hi there, I am Kartik Jaiswal👋</h1>
+
+- 🔭 I’m currently working on <a href="https://github.com/Adrenalinerush07/QNA" target="_blank">Building readers community</a> 
+- 🌱 I’m currently learning <strong> Blockchain and decentralisation </strong>
+- 👯 I’m looking to collaborate on my <strong> readers community project </strong>
+- 🤔 I’m looking for help with <strong> building nearby user search feature </strong>
+- 💬 Ask me about <strong> MERN stack and DSA topics </strong>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kartik-jaiswal-76623a16b/" target="_blank"> Kartik Jaiswal </a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrenalinerush07&show_icons=true" alt="Kartik Jaiswal">
+</p>
+
+<p align="center">
+  <a href="https://adrenalinerush07.github.io/resume/" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrenalinerush07&show_icons=true" alt="Kartik Jaiswal">
+</p>
