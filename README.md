@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://tenor.com/view/hate-naruto-sharingan-gif-6062752" alt="Kartik Jaiswal">
 </p>
 
-&nbsp; &nbsp; 
+
 
 <p align="center">
   <a href="https://adrenalinerush07.github.io/resume/" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> </a>
