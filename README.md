@@ -4,7 +4,7 @@
 
 I am cool minded analytical programmer who turns coffee into code to put an impact in world.
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" / height="200">  
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" height="200" />  
 
 - 🔭 I’m currently working on <a href="https://github.com/Adrenalinerush07/QNA" target="_blank">building readers community</a> 
 - 🌱 Currently working on <strong> Blockchain and decentralisation </strong> module
