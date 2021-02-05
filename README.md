@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adrenalinerush07&show_icons=true" alt="Kartik Jaiswal">
+  <img src="https://tenor.com/view/hate-naruto-sharingan-gif-6062752" alt="Kartik Jaiswal">
 </p>
 
 &nbsp; &nbsp; 
-
-<div class="tenor-gif-embed" data-postid="6062752" data-share-method="host" data-width="100%" data-aspect-ratio="1.7913669064748199"><a href="https://tenor.com/view/hate-naruto-sharingan-gif-6062752">Hate Naruto GIF</a> from <a href="https://tenor.com/search/hate-gifs">Hate GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
   <a href="https://adrenalinerush07.github.io/resume/" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> </a>
