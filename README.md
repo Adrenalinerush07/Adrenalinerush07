@@ -2,7 +2,7 @@
 
 <h1 align="centre"> Hi there, I am Kartik Jaiswal👋</h1>
 
-I am cool minded analytical programmer who turns coffee into code to put an impact in world.
+I am cool minded analytical programmer who turns coffee into code to put an impact on world.
 
 <div>
   
