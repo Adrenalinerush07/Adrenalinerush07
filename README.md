@@ -7,9 +7,9 @@ I am cool minded analytical programmer who turns coffee into code to put an impa
 <div>
   
 
-- 🔭 I’m currently working on <a href="https://github.com/Adrenalinerush07/QNA" target="_blank">building readers community</a> 
+- 🔭 I’m currently working on <a href="https://github.com/Adrenalinerush07/QNA" target="_blank">connecting like minded peoples</a> 
 - 🌱 Currently working on <strong> Blockchain and decentralisation </strong> module
-- 👯 I’m looking for a collaborator on my <strong> readers community project </strong>
+- 👯 I’m looking for a collaborator on my <strong> project which is to connect like minded peoples </strong>
 - 💬 My strength are <strong> MERN stack and DSA</strong>
 - 📫 How to reach me? <a href="https://www.linkedin.com/in/kartik-jaiswal-76623a16b/" target="_blank"> Kartik Jaiswal </a>
 
