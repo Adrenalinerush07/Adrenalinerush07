@@ -21,8 +21,6 @@ I am cool minded analytical programmer who turns coffee into code to put an impa
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartikjaiswal07/" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> </a>
-</p>
-
-<p align="center">
   <a href="https://twitter.com/KartikUchiha" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> </a>
 </p>
+
