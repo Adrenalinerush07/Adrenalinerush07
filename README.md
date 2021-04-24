@@ -17,8 +17,6 @@ I am cool minded analytical programmer who turns coffee into code to put an impa
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" height="221" />  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Adrenalinerush07&show_icons=true" alt="Kartik Jaiswal">
 
 <p align="center">
