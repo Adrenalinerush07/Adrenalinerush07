@@ -20,5 +20,9 @@ I am cool minded analytical programmer who turns coffee into code to put an impa
   <img src="https://github-readme-stats.vercel.app/api?username=Adrenalinerush07&show_icons=true" alt="Kartik Jaiswal">
 
 <p align="center">
-  <a href="https://adrenalinerush07.github.io/resume/" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> </a>
+  <a href="https://www.linkedin.com/in/kartikjaiswal07/" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/KartikUchiha" target="_blank"> <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> </a>
 </p>
