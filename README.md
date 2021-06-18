@@ -1,5 +1,5 @@
 
-<h1>Things have changes a lot! Updaing changes</h1>
+<h1>Things have changes a lot! Updating changes</h1>
 <!-- <h1 align="centre"> Hi there, I am Kartik Jaiswal👋</h1>
 
 I am cool minded analytical programmer who turns coffee into code to put an impact on world.
